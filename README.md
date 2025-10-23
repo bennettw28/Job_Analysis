@@ -9,7 +9,7 @@ UC Berkeley — Economics & Data Science
 
 ## Deliverables
 - 🎥 **Presentation (mp4):** [Watch Here](https://drive.google.com/file/d/1g7o_aDMyM6DJfJcZPawoYazWo_lZoHig/view?usp=sharing)
-- 🌐 ** HTML report:** YOUR_HTML_LINK  
+- 🌐 **HTML Report:** [View Here](https://bennettw28.github.io/Job_Analysis/)
 - 💻 **Notebook (code):** `Job_Analysis.ipynb`
 
 ## Methods (1-paragraph)
