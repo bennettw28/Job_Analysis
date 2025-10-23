@@ -2,7 +2,7 @@
 
 **Author:** Bennett Weinstein  
 UC Berkeley — Economics & Data Science  
-[LinkedIn](www.linkedin.com/in/bennettweinsteinberkeley) • [GitHub](https://github.com/bennettw28)
+[LinkedIn](https://www.linkedin.com/in/bennettweinsteinberkeley) • [GitHub](https://github.com/bennettw28)
 
 ## Overview
 **Job Percentage (Job%)** measures how efficiently teams convert high-leverage run-scoring situations into results. This repo contains the presentation, HTML, and reproducible code.
